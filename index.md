@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 2021 Census Returns - Presentation of Lewisham Housing Statistics
 
-You can use the [editor on GitHub](https://github.com/AlDSmith/mainpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. Let's see if we are successful in editing the page....
+This page is intended to summarise and explain some of the notable changes in Lewisham's housing tenure in the last ten years. Below you will see GIS maps summarising the geographical dispersion of tenure type, student second addresses, car ownership, and other indicators for changing land use over time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### GIS Mapping
+The below maps explore these different indicators at the 2021 Census Output Area level. Output Areas are standardised Census geographical units of approximately equal size (a few hundred each.)
 
-### Markdown
+# Type of Accommodation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Bedrooms
+# Car Ownership
+# Bedroom counts
+# Occupancy levels
+# Second address
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlDSmith/mainpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Queries and Contacts:
+Just get in touch with alexander.smith@lewisham.gov.uk
